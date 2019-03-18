@@ -1,0 +1,6 @@
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\admin2\HTML\C#\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
